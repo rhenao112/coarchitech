@@ -1,9 +1,9 @@
 ---
-# Coarchitech - Screenplay Pattern - Web
+# 📖 Coarchitech - Screenplay Pattern - Web 📖
 ---
   
 ---
-## 📋📋 Pre-requisitos 📋📋
+## 📋 Pre-requisitos 📋
 1. Java 8
 2. Gradle 7 o Superior
 3. IDE de desarrollo
@@ -12,7 +12,7 @@
 ---
   
 ---
-## 🚀🚀 Descripción 🚀🚀
+## 🚀 Descripción 🚀
 
 Este proyecto es un ejemplo para aprender como se debe automatizar las aplicaciones Web, se encuentra creado bajo el patrón de diseño Screenplay e integra varios frameworks como Serenity y Cucumber dentro de un proyecto Gradle. 
   
@@ -23,7 +23,7 @@ Este proyecto cuenta con la ejecución de un test:
 ---
   
 ---
-## 🔧🔧 Instalación 🔧🔧
+## 🔧 Instalación 🔧
 
 Para instalar el proyecto deben seguir los siguientes pasos:
   
@@ -58,6 +58,6 @@ Si se desea realizar la ejecución a través del IDE de desarrollo, se debe sele
 ---
   
 ---
-## ️✒️✒️ Autores ✒️✒️
+## ️✒️ Autores ✒️
 * **Rigoberto Henao** - **Sophos Solutions** - [rhenao112](https://github.com/rhenao112)
 ---
